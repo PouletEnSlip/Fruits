@@ -1,5 +1,5 @@
 # Fruits
-Fruit choice built with HTML, CSS and JavaScript.
+Fruit choice website built with HTML, CSS and JavaScript.
 
 ![0](https://github.com/PouletEnSlip/Fruits/blob/main/site.png)
 
